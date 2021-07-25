@@ -1,0 +1,117 @@
+body{
+ background-color: #eee;
+     font-family: 'Lato', sans-serif;
+}
+#header-img{
+	width: 300px;
+	height: 60px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+#nav-bar{
+	float: right;
+	margin-right: 60px;
+	padding-top: 10px;
+}
+.nav-link{
+	float: left;
+	padding-right: 60px;
+}
+#form{
+	text-align: center;
+	padding-top: 16px;
+}
+#email{
+	width: 280px;
+	margin-top: 10px;
+}
+#submit{
+	margin-top: 20px;
+	background-color: #f1c40f;
+
+}
+
+.btn{
+	padding: 0 20px;
+    height: 40px;
+    font-size: 1em;
+    font-weight: 900;
+    text-transform: uppercase;
+    border: 3px black solid;
+    border-radius: 2px;
+    background: transparent;
+    
+
+}
+#feature{
+	margin-top: 100px;
+
+}
+
+
+.grid{
+	display: flex;
+	margin-left: 100px;
+}
+.logo{
+	width: 20vw;
+	height: 125px;
+	text-align: center;
+	
+}
+.desc{
+	width: 80vw;
+	height: 125px;
+	align-items: center;
+
+}
+#howitwork{
+	margin-top: 30px;
+}
+#video{
+	/*margin-left: 400px;*/
+	width: 600px;
+	height: 400px;
+
+}
+#pricing{
+	margin-top: 50px;
+}
+.col-4{
+	/*width: calc(100% / 3.3);*/
+	text-align: center;
+	border: 1px black solid;
+	border-radius: 2%;
+	/*margin-left: 20px;*/
+
+
+
+
+}
+
+.price{
+	background-color: #ddd;
+	height: 40px;
+	padding-top: 8px;
+	font-weight: 700;
+	width: 100%;
+
+}
+
+.select{
+	border: 0;
+    margin: 15px 0;
+    background-color: #f1c40f;
+    font-weight: 400;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
